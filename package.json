@@ -2,10 +2,10 @@
   "name": "discord-otp-finder",
   "version": "1.0.0",
   "description": "Discord bot that finds email OTP codes and sends them to Discord",
-  "main": "index.js",
+  "main": "index-improved.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js",
+    "start": "node index-improved.js",
+    "dev": "nodemon index-improved.js",
     "setup": "node setup.js",
     "test": "node test-config.js",
     "fix-email": "node fix-email.js"
